@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 vh0232
-## Trading Agents
+## Open Source Discovery
 I forked the TradingAgents repository because ...
